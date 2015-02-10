@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<GroundOverlay>
+		<Icon>
+			<href>https://www.gribfiles.com/kml/img/wind_2015020818_east.png</href>
+		</Icon>
+		<LatLonBox>
+			<west>0</west>
+			<east>180</east>
+			<south>-78</south>
+			<north>78</north>
+			<rotation>0.0</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<GroundOverlay>
+		<Icon>
+			<href>http://techstorm-solution.com/googlemaps/img/wind_2015020818_east_split_09.png</href>
+		</Icon>
+		<LatLonBox>
+			<west>80</west>
+			<east>90</east>
+			<south>-78</south>
+			<north>78</north>
+			<rotation>0.0</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</kml>
